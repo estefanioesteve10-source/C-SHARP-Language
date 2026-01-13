@@ -20,7 +20,7 @@ Abaixo, uma lista dos principais programas desenvolvidos:
 
 | Projeto | Descrição | Conceitos Aplicados |
 | :--- | :--- | :--- |
-| **BhaskaraApp** | Calcula as raízes de uma equação de 2º grau. | Entrada de dados, Math.Sqrt, Lógica Matemática. |
+| **Calculadora** | Calcula as raízes de uma equação de 2º grau. | Entrada de dados, Math.Sqrt, Lógica Matemática. |
 | **Exemplo 2** | Nome do exercício. | Ex: Estruturas de repetição (for/while). |
 
 ---

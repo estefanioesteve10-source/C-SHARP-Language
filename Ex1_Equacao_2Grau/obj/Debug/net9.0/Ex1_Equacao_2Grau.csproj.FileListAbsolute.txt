@@ -1,0 +1,14 @@
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\bin\Debug\net9.0\Ex1_Equacao_2Grau.exe
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\bin\Debug\net9.0\Ex1_Equacao_2Grau.deps.json
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\bin\Debug\net9.0\Ex1_Equacao_2Grau.runtimeconfig.json
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\bin\Debug\net9.0\Ex1_Equacao_2Grau.dll
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\bin\Debug\net9.0\Ex1_Equacao_2Grau.pdb
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\obj\Debug\net9.0\Ex1_Equacao_2Grau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\obj\Debug\net9.0\Ex1_Equacao_2Grau.AssemblyInfoInputs.cache
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\obj\Debug\net9.0\Ex1_Equacao_2Grau.AssemblyInfo.cs
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\obj\Debug\net9.0\Ex1_Equacao_2Grau.csproj.CoreCompileInputs.cache
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\obj\Debug\net9.0\Ex1_Equacao_2Grau.dll
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\obj\Debug\net9.0\refint\Ex1_Equacao_2Grau.dll
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\obj\Debug\net9.0\Ex1_Equacao_2Grau.pdb
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\obj\Debug\net9.0\Ex1_Equacao_2Grau.genruntimeconfig.cache
+C:\Users\estef\Preparacao FullCodeCamp\C# Language\Ex1_Equacao_2Grau\obj\Debug\net9.0\ref\Ex1_Equacao_2Grau.dll
